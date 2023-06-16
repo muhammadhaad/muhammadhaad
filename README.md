@@ -1,6 +1,6 @@
 ### Hi there 👋
+<a href="https://app.daily.dev/muhammadhaad"><img src="https://api.daily.dev/devcards/65ab6178eeb049e7ac73d19cd1a516d7.png?r=o24" width="400" alt="Muhammad Haad Bin Zahid's Dev Card"/></a>
 
-<!--
 **muhammadhaad/muhammadhaad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
