@@ -69,7 +69,7 @@ I'm a **Full Stack Developer** from Islamabad, Pakistan, with over **4 years of 
 - Collaborated with medical staff to implement healthcare workflows into digital solutions
 
 ### Software Developer
-**Air Headquarters — Astrontech, Islamabad, Pakistan** | *Jul 2021 - Dec 2022*
+**Air Headquarters | Astrontech, Islamabad, Pakistan** | *Jul 2021 - Dec 2022*
 - Built Flutter-based mobile applications used by over 5,000 daily users
 - Developed a Queue Management System with thermal printer integration
 - Created a real-time dashboard for hospital resource monitoring
