@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Muhammad Haad!
 
-I'm a **Full Stack Developer** from Rawalpindi, Pakistan, with over **4 years of experience** building scalable, user-focused applications. I've crafted **Flutter** mobile apps at **PAF Hospital Islamabad**, and now I'm driving web innovation at **Sahl** using **Next.js**, **NestJS**, and cloud technologies. My expertise spans **PostgreSQL**, **MongoDB**, **MySQL**, **Firebase**, and **WebSocket** for real-time solutions. Currently, I'm exploring **Google Cloud Platform** and **shell scripting** for automation.
+I'm a **Full Stack Developer** from Islamabad, Pakistan, with over **4 years of experience** building scalable, user-focused applications. I've crafted **Flutter** mobile apps at **PAF Hospital Islamabad**, and now I'm driving web innovation at **Sahl** using **Next.js**, **NestJS**, and cloud technologies. My expertise spans **PostgreSQL**, **MongoDB**, **MySQL**, **Firebase**, and **WebSocket** for real-time solutions. Currently, I'm exploring **Google Cloud Platform** and **shell scripting** for automation.
 
 🌱 **Passionate about learning** and solving complex problems while experimenting with new technologies.
 
